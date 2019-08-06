@@ -13,3 +13,6 @@ Image cropping tool for flutter
 ## IOS
 . No configuration required
 
+### If you liked it or if it useful to you in anyway please do click STAR.
+
+![grab-landing-page](https://github.com/sur950/collapsingAppbar_internalNavigation/blob/master/collapsingAppbar.gif)
