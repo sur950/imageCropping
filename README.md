@@ -15,4 +15,6 @@ Image cropping tool for flutter
 
 ### If you liked it or if it useful to you in anyway please do click STAR.
 
-![grab-landing-page](https://github.com/sur950/collapsingAppbar_internalNavigation/blob/master/collapsingAppbar.gif)
+![grab-landing-page](https://github.com/sur950/imageCropping/blob/master/android1.png)
+
+![grab-landing-page](https://github.com/sur950/imageCropping/blob/master/android2.png)
