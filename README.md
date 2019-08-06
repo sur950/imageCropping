@@ -1,5 +1,5 @@
 # imageCropping
-Image cropping tool for flutter
+Image cropping tool for flutter, we can customize all properties like color and we can also fix the height, width as well.
 
 ## Android
 . Add UCropActivity into your AndroidManifest.xml
